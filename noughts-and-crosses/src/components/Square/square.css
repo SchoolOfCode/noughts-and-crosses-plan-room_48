@@ -1,0 +1,15 @@
+button {
+	padding: 45px;
+	margin: 5px;
+}
+
+.square-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.button-div {
+	width: 30%;
+}
